@@ -28,12 +28,21 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Documentation 
+      tag: DD
+    - name: Articles
+      tag: Art
+    - name: Case Studies 
+      tag: CS
+    - name: Ethereum 
+      tag: ETH
+    - name: Solana 
+      tag: SOL 
+    - name: DeFi 
+      tag: DeFi
+    - name: DeSo
+      tag: DS
+   
 
 design:
   columns: '1'
