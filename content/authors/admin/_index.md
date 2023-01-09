@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: DappaDan 
 
 # Is this the primary user of the site?
 superuser: true
@@ -47,10 +47,14 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://twitter.com/DAppaDanDev
+  - icon: github
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://github.com/DappaDanDev
+  - icon: telegram
+    icon_pack: fab
+    link: https://t.me/dappadandev
+
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
