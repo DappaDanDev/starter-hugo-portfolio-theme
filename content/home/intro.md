@@ -21,4 +21,6 @@ author: admin
 👋 Hi! I'm **DappaDan**, a freelance technical writer covering Web3, Blockchain and Crypto. I am also a proud member of Developer DAO.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
+I also write the Protocol Newsletter - A Developer Field Guide to Web3 protocols, tools and ideas. 
+
 Check out my [resumé](/about/) and portfolio below 

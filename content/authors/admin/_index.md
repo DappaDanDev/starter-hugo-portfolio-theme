@@ -69,9 +69,13 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
+DappaDan is a freelance technical writer specializing in creating Web3, Crypto and Blockchain technical content. As a former Engineer in the Financial Technology industry, Dan is able to create content that is both educational and engaging for the other developers. 
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dan has delivered ony projects that include: developer documentation, technical overviews, developer tutorials, video courses and case studies. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dan's core area of focus is explaining and instructing developers on how to build the future of the internet through the growing world of Web3 protocols and tools. 
+
+Dan is a native English speaker and crypto native...whatever that means.
+
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

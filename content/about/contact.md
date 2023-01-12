@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Get in touch
+title: Work with Me
 subtitle:
 
 content:
@@ -18,9 +18,9 @@ content:
 
   # Email form provider
   form:
-    provider: netlify
+    provider: formspree
     formspree:
-      id:
+      id: xknankyo
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
