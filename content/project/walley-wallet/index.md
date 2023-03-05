@@ -1,5 +1,5 @@
 ---
-title: Guide: 3 Things Stopping User Growth of Your Web3 Project
+title: 3 Things Stopping User Growth of Your Web3 Project
 summary: Explaining the troubles of the Wallet onboarding flow
 tags:
   - ART
