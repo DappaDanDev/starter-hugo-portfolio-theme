@@ -54,6 +54,9 @@ social:
   - icon: telegram
     icon_pack: fab
     link: https://t.me/dappadandev
+  - icon: tiktok
+    icon_pack: fab
+    link: https://tiktok.com/@dappadandev
 
 # Uncomment below for Github link
 #- icon: github

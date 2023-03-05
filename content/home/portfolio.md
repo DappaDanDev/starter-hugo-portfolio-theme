@@ -31,17 +31,16 @@ content:
     - name: Documentation 
       tag: DD
     - name: Articles
-      tag: Art
+      tag: ART
     - name: Case Studies 
       tag: CS
-    - name: Ethereum 
-      tag: ETH
-    - name: Solana 
-      tag: SOL 
-    - name: DeFi 
-      tag: DeFi
-    - name: DeSo
-      tag: DS
+    - name: Tutorials 
+      tag: TUT
+    - name: Video 
+      tag: VID
+    - name: Other
+      tag: OTH
+
    
 
 design:
