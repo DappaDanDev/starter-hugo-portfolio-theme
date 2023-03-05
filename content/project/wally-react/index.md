@@ -1,5 +1,5 @@
 ---
-title: Guide: Enabling Web3 Email Onboarding with Wally and React
+title: Enabling Web3 Email Onboarding with Wally and React
 summary: Tutorial on integrating Wally Wallet into React
 tags:
   - TUT
