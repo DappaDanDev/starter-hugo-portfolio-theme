@@ -1,12 +1,12 @@
 ---
 # Display name
-title: DappaDan 
+title: DappaDan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: ""
 
 # Status emoji
 status:
@@ -44,7 +44,7 @@ bio: My technical writing covers developer documentation, technical articles and
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: "about/#contact" # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/DAppaDanDev
@@ -54,10 +54,9 @@ social:
   - icon: telegram
     icon_pack: fab
     link: https://t.me/dappadandev
-  - icon: tiktok
+  - icon: youtube
     icon_pack: fab
-    link: https://tiktok.com/@dappadandev
-
+    link: https://www.youtube.com/@dappadandev/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -72,13 +71,13 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
-DappaDan is a freelance technical writer specializing in creating Web3, Crypto and Blockchain technical content. As a former Engineer in the Financial Technology industry, Dan is able to create content that is both educational and engaging for the other developers. 
 
-Dan has delivered ony projects that include: developer documentation, technical overviews, developer tutorials, video courses and case studies. 
+DappaDan is a freelance technical writer specializing in creating Web3, Crypto and Blockchain technical content. As a former Engineer in the Financial Technology industry, Dan is able to create content that is both educational and engaging for the other developers.
 
-Dan's core area of focus is explaining and instructing developers on how to build the future of the internet through the growing world of Web3 protocols and tools. 
+Dan has delivered ony projects that include: developer documentation, technical overviews, developer tutorials, video courses and case studies.
+
+Dan's core area of focus is explaining and instructing developers on how to build the future of the internet through the growing world of Web3 protocols and tools.
 
 Dan is a native English speaker and crypto native...whatever that means.
-
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

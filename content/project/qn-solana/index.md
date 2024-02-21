@@ -4,5 +4,5 @@ summary: Intro to Solana Account Model
 tags:
   - ART
 date: 2022-01-01
-external_link: https://b5b3wutwfuntyodmrq5lpbr6qm5z736u3fcws3c32qdkutd3enmq.arweave.net/D0O7UnYtGzw4bIw6t4Y-gzuf79TZRWlsW9QGqkx7I1k
+external_link: https://www.quicknode.com/guides/solana-development/getting-started/an-introduction-to-the-solana-account-model#:~:text=There%20are%20two%20types%20of,via%20the%20LLVM%20compiler%20infrastructure.
 ---
